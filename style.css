@@ -1,0 +1,143 @@
+body{
+  margin:0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+  font-size:1em;
+}
+.top-container
+{
+  background-color: #66BFBF;
+  position:relative;
+  padding-top:3.12rem;
+  width:100%;
+}
+h1
+{
+  font-size: 2.625rem;
+  font-family: 'Sacramento';
+  margin: 3.12rem auto 0 auto;
+  color: #4C0033;
+}
+.web{
+  font-size: 2rem;
+  margin: 0 auto auto auto;
+  color:#D1512D;
+}
+.middle-container
+{
+background-color: #EAF6F6;
+height: 30.5rem;
+width:  12.5rem;
+Width:100%;
+position: relative;
+padding-top: 3.12rem;
+
+}
+.bottom-container
+{
+background-color: #FF0063;
+height: 15rem;
+Width:100%;
+position: relative;
+padding-top: 3.12rem;
+
+}
+.bottom-cloud
+{
+  position: absolute;
+  left:13.12rem;
+  bottom:18.75rem;
+}
+.tob-cloud
+{
+  position: absolute;
+  right:15.62rem;
+  top:3.12rem;
+}
+.computer
+{
+  position: absolute;
+  left:13.12rem;
+  width: 8rem;
+  top:2.5rem;
+}
+.Design-heading
+{
+  font-size: 2.2rem;
+  font-family: 'Sacramento';
+  margin: 3.12rem auto 0 auto;
+  color: #11999E;
+  position: absolute;
+  left:23.12rem;
+  top:-2rem;
+}
+.Design-content
+{
+  font-size: 1.2rem;
+  margin: 0 auto auto auto;
+  position:absolute;
+  left:24.12rem;
+  top:5.5rem;
+  text-align: left;
+  display:inline-block;
+  width: 40rem;
+}
+.chillies
+{
+  position: absolute;
+  left:65.12rem;
+  width: 8rem;
+  height: 8rem;
+  top:18rem;
+}
+.Hot-heading
+{
+  font-size: 2.2rem;
+  font-family: 'Sacramento';
+  margin: 3.12rem auto 0 auto;
+  color: #11999E;
+  position: absolute;
+  left:75.12rem;
+  top: 14rem;
+}
+.Wings
+{
+  font-size: 1.2rem;
+  margin: 0 auto auto auto;
+  position:absolute;
+  left:75.12rem;
+  top:21rem;
+  text-align: left;
+  display:inline-block;
+  width: 40rem;
+}
+.contact-me
+{
+  font-size: 2.2rem;
+  font-family: 'Sacramento';
+  margin: 3.12rem auto 0 auto;
+  color: #F7ECDE;
+  position: absolute;
+  left:23.12rem;
+  top: -1rem;
+}
+.contact-content
+{
+  font-size: 1.2rem;
+  margin: 0 auto auto auto;
+  position:absolute;
+  left:24.12rem;
+  top:6rem;
+  text-align: left;
+  color:#9ED2C6;
+}
+.contact-detail
+{
+  margin: 0 auto auto auto;
+  position: absolute;
+  left:24.12rem;
+  top:12rem;
+}
+a:link {
+  color: #9ED2C6;
+}
